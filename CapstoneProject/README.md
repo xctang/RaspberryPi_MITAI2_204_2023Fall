@@ -18,7 +18,7 @@ References:
 
 #### Use bash command to set up enviroment (one command setup)
 ```
-wget -O - https://raw.githubusercontent.com/xctangApp/RaspberryPi_MITAI2_204_2023summer/main/CapstoneProject/enviroment-setup.sh | bash
+wget -O - [(https://raw.githubusercontent.com/xctangApp/RaspberryPi_MITAI2_204_2023Fall/main/CapstoneProject/enviroment-setup.sh)] | bash
 
 
 ```
